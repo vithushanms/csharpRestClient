@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yuaaK2d1NTzzNrH5mFTd7mQuyFu30kwAe7MlJMYQsiKl4BP5HKjVOfVVDMzJ3CWCi1ARG13dXBx+sVs8/2pZgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\restClient\\CSharpRestClient\\CSharpRestClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vithushan\\.nuget\\packages\\system.text.json\\5.0.0-rc.1.20451.14\\system.text.json.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\vithushan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\vithushan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.7\\microsoft.netcore.app.host.win-x64.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
